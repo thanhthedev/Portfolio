@@ -13,21 +13,24 @@ body {
     background-color: lightgoldenrodyellow;
 }
 main {
+    display:grid;
+    grid-template-columns: 50% 50%;
     margin: auto;
-    width: 50%;
+    width: 75%;
     align-content: center;
     background-color: lightskyblue;
 }
 p {
     font-family: 'Popins', sans-serif;
     font-size: 1.2rem;
+    line-height: 1.6rem;
 }
 section {
     border: 2px solid darkblue;
 }
 
 section img {
-    width: 150px;
+    width: 100px;
 }
 
 main h2 {
@@ -46,7 +49,42 @@ footer {
     margin-right: auto;
 }
 
+#hobbies, #socialmedia {    
+    /* display: grid;
+    grid-template-columns: 50% 50%; */
+    width: 100%;
+}
+@keyframes spin { 
+    100% { 
+        -webkit-transform: rotate(360deg); 
+    } 
+}
+#basketball:hover {
+    animation: spin 2s linear ;
+}
 
+@keyframes shake {
+    10%, 90% {
+        -webkit-transform: translate3d(-1px, 0, 0);
+    }
+    
+    20%, 80% {
+        -webkit-transform: translate3d(2px, 0, 0);
+    }
+  
+    30%, 70% {
+        -webkit-transform: translate3d(-2px, 0, 0);
+    }
+  
+    40%, 60% {
+        -webkit-transform: translate3d(2px, 0, 0);
+    }
+}
+
+#gaming:hover {
+    animation: shake 2s linear;
+}
+/* https://css-tricks.com/snippets/css/shake-css-keyframe-animation/ */
 @media screen and (max-width: 500px) {
     body {
         background-color: orange;
