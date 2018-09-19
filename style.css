@@ -1,0 +1,10 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* reset to 0 */
+body {
+    width: 50%;
+    background-color: lightskyblue;
+}
