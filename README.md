@@ -25,7 +25,7 @@
 ### Wireframes
 
 ### Personal logo (optional)
-<img scr=images/LogoMakrThanh.png>
+<img scr="images/LogoMakrThanh.png">
 ### Usability considerations
 
 ## Details of planning process
