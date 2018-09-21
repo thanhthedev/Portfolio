@@ -2,5 +2,6 @@
 
 ## History of the internet in the 1980s </br>
 
-* The first email arrives in Germany from the U.S. on August 3, 1984
-* During late 80s ISPs (Internet Service Providers) were formed.
+* 1984 - The first email arrives in Germany from the U.S. 
+* 1986 - Craig Partridge designs how email is routed using domain names.
+* 1989 - Geoff Huston helps facilitate a large scale deployment of the internet to the Australia public.
