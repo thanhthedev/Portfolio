@@ -1,6 +1,6 @@
 # Thanh Dao Portfolio
 
-## History of the internet in the 1980s </br>
+## History of the internet in the 1980s
 
 * 1984 - The first email arrives in Germany from the U.S. 
 * 1986 - Craig Partridge designs how email is routed using domain names.
