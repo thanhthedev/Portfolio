@@ -1,5 +1,39 @@
 # Thanh Dao Portfolio
 
+## Link to portfolio
+
+## Link to GitHub repo
+
+## Description
+
+### Purpose
+
+### Functionality / features
+
+### Sitemap
+
+### Screenshots
+
+### Target audience
+
+### Tech stack (e.g. html, css, deployment platform, etc)
+
+## Design documentation
+
+### Design process
+
+### Wireframes
+
+### Personal logo (optional)
+
+### Usability considerations
+
+## Details of planning process
+
+### Project plan & timeline
+
+### Screenshots of Trello board(s)
+
 ## History of the internet in the 1980s
 
 * 1984 - The first email arrives in Germany from the U.S. 
