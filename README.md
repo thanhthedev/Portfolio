@@ -23,7 +23,7 @@
 ### Design process
 
 ### Wireframes
-
+<img src="./docs/Wireframe.png" width="70%" height="70%">
 ### Personal logo (optional)
 
 <img src="./docs/LogoMakrThanh.png" width="50%" height="50%">
