@@ -144,7 +144,7 @@ footer {
 /* https://css-tricks.com/snippets/css/shake-css-keyframe-animation/ */
 
 /*Phones */
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 560px) {
     main {
         display:grid;
         grid-template-columns: 100%;
@@ -152,6 +152,6 @@ footer {
         width: 80%;
         text-align: center;
         background-color: lightskyblue;
-    
     }
 }
+/* tablet and desktop wasnt needeed because it still looks good */
