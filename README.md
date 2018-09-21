@@ -26,7 +26,8 @@
 
 ### Personal logo (optional)
 
-<img scr="./docs/LogoMakrThanh.png">
+<img scr="./docs/LogoMakrThanh.png" width="40%" height="40%>
+<!-- <img src="./docs/logo.jpg" width="40%" height="40%"> -->
 
 ### Usability considerations
 
