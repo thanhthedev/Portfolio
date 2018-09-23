@@ -43,7 +43,7 @@ ul {
 
 section {
     border: 4px ridge darkblue;
-    padding: 20px 20px;
+    padding: 20px;
 }
 
 section img {
@@ -83,11 +83,6 @@ footer {
     animation: colorize 5s linear;
 }
 
-
-#hobbies i {
-    font-size: 100px;
-}
-
 #containerhobbies {
     display: flex;
     justify-content: space-evenly;
@@ -95,11 +90,9 @@ footer {
     margin-top: 30px;
 }
 
-#emailme a {
-    font-size: 100px;
-}
-
-#socialmedia a {
+#hobbies i, 
+#emailme i, 
+#socialmedia i {
     font-size: 100px;
 }
 
@@ -134,12 +127,12 @@ footer {
         transform: translate3d(-2px, 0, 0);
     }
     40%, 60% {
-        transform: translate3d(2px, 0, 0);
+        transform: translate3d(3px, 0, 0);
     }
 }
 
 #gaming:hover {
-    animation: shake 2s linear;
+    animation: shake 0.9s linear infinite;
 }
 /* https://css-tricks.com/snippets/css/shake-css-keyframe-animation/ */
 
